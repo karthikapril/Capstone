@@ -1,4 +1,4 @@
-# _Project Title: Phonepe Pulse Data Visualization and Exploration:A User-Friendly Tool Using Streamlit and Plotly_
+# _Project Title: Phonepe Pulse Data Visualization and Exploration:A User-Friendly Tool Using Streamlit and Plotly_ ⤵️
 # _Technologies used: Github Cloning, Python, Pandas, MySQL,mysql-connector-python, Streamlit, and Plotly._
 # _Domain: Fintech_
 
