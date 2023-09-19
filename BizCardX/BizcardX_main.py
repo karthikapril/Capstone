@@ -1,11 +1,10 @@
+import re
+import cv2
+import mysql.connector as sql
 import streamlit as st
 import os
-from streamlit_option_menu import option_menu
-import mysql.connector as sql
 import easyocr
-import cv2
 import matplotlib.pyplot as plt
-import re
 import pandas as pd
 import base64
 
